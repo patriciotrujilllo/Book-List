@@ -1,5 +1,5 @@
 ## Aplicación de Lista de Libros
-![Pagina principal](./images/LibrosPrincipal.png)
+![Pagina principal](./images/addToSlice.png)
 
 **Intalación:**
 ```place
